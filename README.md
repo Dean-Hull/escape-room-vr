@@ -11,6 +11,11 @@ Escape Room VR is an immersive virtual reality game developed by Dean Hull and J
 - A timer to add an element of urgency to the gameplay
 - Support for multiple VR devices, including Oculus and Steam VR
 
+# Our Project Plan on Figma
+https%3A%2F%2Fwww.figma.com%2Ffile%2Fm8vsXdAYLI2JMpWPjg0hpC%2FXR-VR-GAME-Planning-Board%3Fnode-id%3D0%253A1%26t%3DJmnApTKMzRjxhUnH-1
+![image](https://user-images.githubusercontent.com/8495748/221437550-8367dd90-a99f-4477-8d08-2bb7976c287d.png)
+
+
 #Getting Started
 To run Escape Room VR, you will need a VR device such as Oculus or Steam VR. Once you have your VR device set up and connected to your computer, follow these steps:
 
